@@ -6,6 +6,8 @@ layout: layout.html
 
 Just a **demo**.
 
+Here is a [link to index page](/index.html).
+
 ## Sub-heading
 
 This is content inside _heading 2_.
