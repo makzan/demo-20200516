@@ -1,6 +1,7 @@
 ---
 tags: post
 layout: post.html
+date: 2020-05-23
 title: First post for demo
 ---
 
