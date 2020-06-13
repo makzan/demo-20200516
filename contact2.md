@@ -6,7 +6,7 @@ layout: layout
 
 The following code is using Netlify form.
 
-<form data-netlify="true" method="post">
+<form data-netlify="true" action="/thanks" method="post">
   <p>
     <label>Name:
       <input type="text" name="name">
