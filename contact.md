@@ -6,7 +6,7 @@ layout: layout.html
 
 ## via FormSubmit.co
 
-<form name="contact" method="POST" actoin="https://formsubmit.co/demo@makzan.net" enctype="multipart/form-data">
+<form name="contact" method="POST" action="https://formsubmit.co/demo@makzan.net" enctype="multipart/form-data">
   <p>
     <label>
       Your Name: 
