@@ -20,6 +20,8 @@ The following form is using FormSubmit.co.
     <label for="content">Content:</label>
     <textarea name="content" id="content"></textarea>
   </p>
+  
+  <input type="hidden" name="_next" value="https://demo-20200516.netlify.app/thanks">
   <input type="submit" value="Send Form">
 </form>
 
