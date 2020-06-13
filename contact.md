@@ -28,7 +28,7 @@ layout: layout.html
   <p>
     <label>
       Attachment:
-      <input type="file" name="attachment" multiple>
+      <input type="file" name="attachments[]" multiple>
     </label>
   </p>
   <p>
@@ -61,7 +61,7 @@ layout: layout.html
   <p>
     <label>
       Attachment:
-      <input type="file" name="attachment" multiple>
+      <input type="file" name="attachments[]" multiple>
     </label>
   </p>
   <p>
